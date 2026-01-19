@@ -22,7 +22,7 @@ A simple and elegant task management application built with HTML, CSS, and JavaS
 ## How to Use
 
 1. **Locally**: Open `index.html` in your web browser.
-2. **Online**: Visit the deployed version on [Netlify](https://your-netlify-url.netlify.app) (replace with your actual URL).
+2. **Online**: Visit the deployed version on [Netlify](https://melodious-donut-071486.netlify.app).
 
 ### Adding a Task
 - Fill in the form at the bottom: Title (required), Category, Priority, Deadline, Description.
